@@ -14,6 +14,7 @@ IOSR Journal of Mathematics (IOSR-JM), 15(3), 05-15.
  
 
 Reguirements
+
 The following libraries need to be installed for the code to run
  
  NumPy
@@ -22,6 +23,7 @@ The following libraries need to be installed for the code to run
  Gurobi
  
  References
+ 
  https://github.com/adity/Vehicle-Routing
     The Vehicle Routing Problem By Toth & Vigo
  
